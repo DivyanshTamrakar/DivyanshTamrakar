@@ -25,7 +25,7 @@
 
 
 - 🔭 Learning `Fullstack Web Development` with [Tanay Pratap](https://twitter.com/tanaypratap).
-- 🌱 I have also done live projects on flutter.
+- 🌱 I have also done live projects on `Flutter`.
 - 💬 Ask me about Flutter or any tech related stuff ☞ [here](https://www.instagram.com/tamrakar_divyansh_01/)
 - 📫 How to reach me: [Twitter - @DTamrakar_13](https://twitter.com/DTamrakar_13), [Linkedin - Divyansh Tamrakar](https://www.linkedin.com/in/divyansh-tamrakar/)
 - 😄 Pronouns: He/His
