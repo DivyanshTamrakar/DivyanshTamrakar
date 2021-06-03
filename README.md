@@ -1,4 +1,6 @@
-## Hola, I'm [Divyansh Tamrakar!](https://tamrakardivyansh189.netlify.app/) 👋
+<div align="center">
+   <h1> Hola, I'm Divyansh Tamrakar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DivyanshTamrakar&label=Views&color=blue&style=plastic" alt="DivyanshTamrakar" /> </p>
 
@@ -22,12 +24,13 @@
 
 
 
-- 🔭 I’m currently Learning React JS with [Tanay Pratap](https://twitter.com/tanaypratap).
+- 🔭 Learning `Fullstack Web Development` with [Tanay Pratap](https://twitter.com/tanaypratap).
 - 🌱 I have also done live projects on flutter.
-- 💬 Ask me about Flutter or any tech related stuff.
+- 💬 Ask me about Flutter or any tech related stuff ☞ [here](https://www.instagram.com/tamrakar_divyansh_01/)
 - 📫 How to reach me: [Twitter - @DTamrakar_13](https://twitter.com/DTamrakar_13), [Linkedin - Divyansh Tamrakar](https://www.linkedin.com/in/divyansh-tamrakar/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 8 hours doing coding everyday.
+- 💭 Let's get to know each other 
 
 [![Twitter: DTamrakar_13](https://img.shields.io/twitter/follow/DTamrakar_13?style=social)](https://twitter.com/DTamrakar_13)
 [![Linkedin: Divyansh Tamrakar](https://img.shields.io/badge/-Divyansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divyansh-tamrakar/)](https://www.linkedin.com/in/divyansh-tamrakar/)
