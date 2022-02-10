@@ -49,14 +49,20 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>  
 
 
-<a href="https://github.com/DivyanshTamrakar">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DivyanshTamrakar&show_icons=true&theme=light&line_height=27" alt="Divyansh's github stats"/>
-</a>
-<a href="https://github.com/DivyanshTamrakar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshTamrakar&theme=light&hide_langs_below=1" />
-</a>
+## ✨GitHub Stats: 
+<div align="center">
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshTamrakar&theme=tokyonight" alt="DivyanshTamrakar" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DivyanshTamrakar&show_icons=true&count_private=true&theme=tokyonight" alt="DivyanshTamrakar" />
+</div>
+
+<br/>
 
 <div align="center">
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DivyanshTamrakar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DivyanshTamrakar" />
+ <img width="55%" src="https://activity-graph.herokuapp.com/graph?username=DivyanshTamrakar&theme=nord" alt="DivyanshTamrakar" />
+</div>
+
+
   
    
 ---
