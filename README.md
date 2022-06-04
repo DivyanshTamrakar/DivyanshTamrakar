@@ -1,5 +1,5 @@
 <div align="center">
-   <h1> Hola, I'm Divyansh Tamrakar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h1> Hola, I'm Divyansh Tamrakar </h1>
 </div>
 <img src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" align="right" width="150"/>
 
