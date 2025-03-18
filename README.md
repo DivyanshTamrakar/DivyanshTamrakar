@@ -25,12 +25,13 @@
 
 
 
-- 🔭 `Frontend` `Fullstack Web Developer`.
-- 🌱 I have also done live projects on `React`.
-- 💬 Ask me about React or any tech related stuff ☞ [here](https://www.instagram.com/tamrakar.divyansh01/)
+- 🔭 `Frontend` `Fullstack Web and Mobile Developer`.
+- 🌱 Building scalable web 🌍 and mobile 📱 applications 🚀.
+- 🌱 Skills: `React React Native Typescript NextJs NodeJs GraphQl WebPack Github CI/CD`.
+- 💬 Ask me about React or any tech-related stuff ☞ [here](https://x.com/DTamrakar_13)
 - 📫 How to reach me: [Twitter - @DTamrakar_13](https://twitter.com/DTamrakar_13), [Linkedin - Divyansh Tamrakar](https://www.linkedin.com/in/divyansh-tamrakar/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 8 hours doing coding everyday.
+- ⚡ Fun fact: I spend almost 8 hours doing coding every day.
 - 💭 Let's get to know each other 
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-tamrakardivyansh189.netlify.app-2648ff?style=flat-square&logo=google-chrome)](https://tamrakardivyansh189.netlify.app/)
